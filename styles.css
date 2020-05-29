@@ -1,0 +1,48 @@
+@import url("./assets/css/reset.css");
+@import url("./assets/css/fonts.css");
+
+div:nth-child(1){
+    font-family: "OpenSans", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+div:nth-child(2){
+    font-family: "OpenSans", sans-serif;
+    font-weight: 700;
+    font-style: italic;
+}
+div:nth-child(3){
+    font-family: "OpenSans", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+div:nth-child(4){
+    font-family: "OpenSans", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+}
+div:nth-child(5){
+    font-family: "OpenSans", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+div:nth-child(6){
+    font-family: "OpenSans", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+}
+div:nth-child(7){
+    font-family: "OpenSans", sans-serif;
+    font-weight: 700;
+    font-style: italic;
+}
+div:nth-child(8){
+    font-family: "OpenSans", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+div:nth-child(9){
+    font-family: "OpenSans", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
